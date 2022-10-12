@@ -1,0 +1,58 @@
+.container {
+    max-width: 1920px;
+    width: 100%;
+    margin: auto 0;
+    padding: 0 70px;
+}
+header {
+    padding-top: 21px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.globus {
+    display: flex;
+    max-width: 92px;
+    height: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 70px;
+}
+
+
+nav {
+    max-width: 598px;
+    margin:auto 0;
+}
+
+
+header ul {
+    width: 100%;
+    margin: auto 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.connect{
+    max-width: 104px;
+    /* margin: auto 0; */
+    background-color: #4468E2;
+    border-radius: 30px;    
+}
+
+
+.conectH1{
+    width: 100%;
+    font-size: 15px;
+    color: white;
+    padding: 8px;
+}
+
+header li  {
+    margin-left: 20px;
+    justify-content: space-between;
+    color: #4468E2;
+}
